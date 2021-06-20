@@ -1,0 +1,14 @@
+{
+  "package": {
+    "dependencies": {
+      "sass": "^1.35.1"
+    },
+    "devDependencies": {
+      "eslint-plugin-jsx-a11y": "^6.4.1"
+    },
+    "eslintConfig": {
+      "extends": ["react-app", "plugin:jsx-a11y/recommended"],
+      "plugins": ["jsx-a11y"]
+    }
+  }
+}
