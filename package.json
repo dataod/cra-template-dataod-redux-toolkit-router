@@ -1,27 +1,30 @@
 {
-  "name": "cra-template-dataod-basic-js",
+  "name": "cra-template-dataod-redux-toolkit-router",
   "author": {
     "name": "Dataod <contact@dataod.com>"
   },
   "deprecated": false,
-  "version": "1.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dataod/cra-template-dataod-basic-js.git"
+    "url": "https://github.com/dataod/cra-template-dataod-redux-toolkit-router.git"
   },
   "keywords": [
     "react",
     "create-react-app",
     "template",
+    "redux",
+    "toolkit",
+    "react-router-dom",
     "sass"
   ],
-  "description": "Basic JS template for Create React App with Sass css reset.",
+  "description": "Template for Create React App with redux-toolkit, react-redux, react-router-dom and Sass css reset.",
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/dataod/cra-template-dataod-basic-js/issues"
+    "url": "https://github.com/dataod/cra-template-dataod-redux-toolkit-router/issues"
   },
   "files": [
     "template",
